@@ -1,0 +1,21 @@
+npm i
+npm i --prune             felesleges csomagok törlése
+
+
+
+gauge run -c 1 -p -n 8  -v -i -e default  .\specs\example.spec  - valami futtatása
+
+
+Install Nodejs
+INstall VS code
+Open VsCode
+Create a folder (Dokumentumok mappaban)
+Gauge telepítése
+
+
+https://medium.com/geekculture/how-to-setup-playwright-end-to-end-test-automation-framework-f09478d18267
+
+
+LÉPÉSEK:
+
+https://docs.gauge.org/getting_started/create-test-project.html?os=linux&language=javascript&ide=vscode

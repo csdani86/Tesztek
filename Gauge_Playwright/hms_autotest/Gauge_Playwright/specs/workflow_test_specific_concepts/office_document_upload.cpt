@@ -1,0 +1,8 @@
+# Fájl feltöltése hatósági oldal
+* Várj, amíg a "Új dokumentum feltöltése" szöveg látszik
+* Kattints a "Új dokumentum feltöltése" gombra
+* "teszttxt.txt" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "teszttxt.txt" szöveg látszik
+* Kattints a "Vissza" gombra
+* Várj, amíg a "teszttxt.txt" szöveg jelen lesz
+* Bemutató bezárása

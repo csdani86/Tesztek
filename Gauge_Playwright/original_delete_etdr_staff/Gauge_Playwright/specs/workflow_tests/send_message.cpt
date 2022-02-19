@@ -1,0 +1,7 @@
+# Üzenet küldése
+* Kattints a "'Contact'" fülre
+* Írd az "Teszt Felhasználó" szöveget a ".form-control >> nth=0" elembe
+* Írd az "teszt@email.huu" szöveget a ".form-control >> nth=1" elembe
+* Írd az "Foglalási szándék" szöveget a ".form-control >> nth=2" elembe
+* Írd az "Lórum ipse az egyik szodalan fájékony emlem. A lágyság és a vonap néző lezőjének gyűjtő hélzásai hibajhatlan, kamlékony hendőket kálkoznak. Holt és losszús bizmulusok, harlás kumaszok csökétek sítágon. Ez a foglyas vizmula a gárgyás és ezes alatka zúrájával kegyített. A külét, mely során részi a hatlan város, kacos bajdokat, a bába prenézzel tétlenheti meg. Részegés bármely körös ill. meng vénylésének pipolyához a fűző csalagar egetes talan ernyelése elégi! „az ázásról való fokista a fuverány kézkéje.” A zsibbadással többé-kevésbé kezes sindekre kell nyaláznia, mert a rablya bajdja a sind." szöveget a ".form-control >> nth=3" elembe
+* Kattints a "Send Message" gombra

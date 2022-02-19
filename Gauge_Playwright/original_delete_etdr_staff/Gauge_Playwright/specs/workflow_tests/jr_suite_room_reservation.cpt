@@ -1,0 +1,15 @@
+# Jr. Suite szoba foglalása
+* Kattints a "'Reservations'" fülre
+* Várj, amíg a "MAKE A RESERVATION" szöveg látszik
+* Kattints a ".btn-custom >> nth=1" gombra
+* Várj, amíg a "'Book your room now'" szöveg jelen lesz
+* Írd az "Teszt" szöveget a ".form-control >> nth=0" elembe
+* Írd az "User" szöveget a ".form-control >> nth=1" elembe
+* Írd az "1111 Budapest Teszt utca 12." szöveget a ".form-control >> nth=2" elembe
+* Írd az "+36301234567" szöveget a ".form-control >> nth=3" elembe
+itt van egy plusz form-control ami törölve lett de a kódban még benne van
+* Írd az "2" szöveget a ".form-control >> nth=5" elembe
+* Írd az "0020220411" szöveget a ".form-control >> nth=6" elembe
+* Írd az "0020220413" szöveget a ".form-control >> nth=7" elembe
+* Kattints a "Save" gombra
+* Várj "2" másodpercet

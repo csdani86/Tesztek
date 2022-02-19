@@ -1,0 +1,15 @@
+# EKEIDR_Szakhatósági megkeresés cselekmény
+* Kattints az "Végzés" elemre
+* Kattints az "Szakhatósági megkeresés" elemre
+* Kattints a "Aut. iktatás" gombra, ha tudsz
+* Kattints az "Címzettek" elemre
+* Várj, amíg a "Hatóság felvétele >> nth=0" elem látszik
+* EKEIDR_Hatóság felvétele
+EKEIDR_sub_filing_number
+* Irat sablon beállítás fájlból
+* Jegyezd meg az "#filing-number" értékét az "EKEIDR_sub_filing_number" azonosítóval
+* Kiadmányozás
+* Expediálás
+* Kattints a "'Eljárás'" gombra
+* Kattints a "'Cselekmények'" fülre
+* Ellenőrizd le, hogy a "Szakhatósági megkeresés" szöveg megtalálható az oldalon

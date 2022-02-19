@@ -1,0 +1,16 @@
+# Dokumentumok elrejtése
+* Kattints a "Dokumentumok" elemre
+* Bemutató bezárása
+* Ellenőrizd le, hogy a "rejtett" szöveg megtalálható az oldalon
+* Kattints a "#documentlist-refresh-btn" gombra
+* Ellenőrizd le, hogy a "rejtett" szöveg megtalálható az oldalon
+* Kattints a "Dokumentumok elrejtése" elemre
+
+* Fogd meg a "//span[text()[contains(., 'rejtett')]]" elemet és ejtsd a "//td[text()[contains(., 'Egyszerű bejelentés jogutódlás |')]]/parent::tr" elemre
+* Kattints a "#documentlist-refresh-btn" gombra
+* Várj, amíg a "Egyszerű bejelentés jogutódlás" szöveg már nem látszik
+* Kattints a "Dokumentumok elrejtése" elemre
+ Fogadd el a böngésző figyelmeztetést
+ Kattints a ".custom-fa-times-thin" elemre
+ Kattints a "#documentlist-refresh-btn" gombra
+ Kattints a "Dokumentumok elrejtése" elemre

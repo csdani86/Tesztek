@@ -1,0 +1,10 @@
+# EKEIDR_Hatóság felvétele
+* Kattints a "Hatóság felvétele >> nth=0" gombra
+* Ellenőrizd le, hogy a "Hatóság kiválasztása" szöveg megtalálható az oldalon
+* Várj, amíg a "Összes hatóság megjelenítése" szöveg látszik
+* Kattints a "Összes hatóság megjelenítése" gombra, ha tudsz
+* Írd a "Pest Megyei Kormányhivatal Gödöllői Járási Hivatal (népegészségügy)" szöveget a "#grid_ListErintettOffices_DXFREditorcol1_I" elembe
+* Nyomj egy Enter-t
+* Kattints a "#grid_ListErintettOffices_DXSelBtn0_D" elemre, ha tudsz
+* Kattints a "Mentés" gombra
+* Várj, amíg a "Tovább" szöveg látszik

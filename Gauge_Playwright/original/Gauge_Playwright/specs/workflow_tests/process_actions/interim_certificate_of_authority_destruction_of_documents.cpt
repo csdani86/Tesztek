@@ -1,0 +1,18 @@
+# Hatósági bizonyítvány (közbenső) cselekmény - iratmegsemmisítés
+* Kattints a "Határozat" gombra
+* Kattints az "'Hatósági bizonyítvány (közbenső)'" elemre
+* Iktatás
+* Kattints az "Mellékletek" elemre
+* Mellékletek csatolása
+* Kattints az "'Irat'" elemre
+* Irat sablon beállítás
+* Kattints az "Általános" elemre
+* Kattints a "'Szerkesztés'" gombra
+* Várj, amíg a "Szakterület" szöveg jelen lesz
+* Válaszd ki a "#SenderOfficeScope_Id" legördülő listából az "Építésügy (általános építmények)" címkéjű elemet
+* Kattints a "Mentés" gombra
+* Kiadmányozás
+* Irat megsemmisítés
+* Kattints a "'Eljárás'" gombra
+* Kattints a "'Cselekmények'" fülre
+* Ellenőrizd le, hogy a "Megsemmisítve >> nth=0" "style" paraméterének az értéke "color:Red;text-decoration: line-through;"

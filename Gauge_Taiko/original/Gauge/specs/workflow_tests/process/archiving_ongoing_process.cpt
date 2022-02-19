@@ -1,0 +1,19 @@
+# Irattározás folyamatban lévő eljárást
+* Várj, amíg az "Ügyirat" szöveg látszik
+* Kattints az "Ügyirat" gombra
+* Fogadd el a böngésző figyelmeztetést
+* Kattints a "Irattározásra" gombra
+* Kattints az "Általános" elemre
+* Kattints a "Szerkesztés" gombra
+* Várj, amíg a "Szakterület" szöveg jelen lesz
+* Válaszd ki a "SenderOfficeScope_Id" ID-val rendelkező legördülő listából a "Építésügy (általános építmények)" címkéjű elemet
+* Írd a "Feljegyzés indokja az Irattárhoz" szöveget a "Indoklás" címkével rendelkező elembe
+* Kattints a "Mentés" gombra
+* Ellenőrizd le, hogy a "Feljegyzés indokja az Irattárhoz" szöveg megtalálható az oldalon
+* Kattints a "Tovább" gombra
+* Kattints a "Véglegesítés" gombra
+* Ellenőrizd le, hogy a "Feljegyzését a rendszer rögzítette" szöveg megtalálható az oldalon
+* Kattints az "Bezár" gombra
+* Kattints az "Vissza" gombra
+* Kattints az "Eljárás általános adatai" gombra
+* Várj, amíg a "Irattározásra" szöveg jelen lesz

@@ -1,0 +1,20 @@
+# Nagy Ancsa kérelmező hozzáadása
+* Pipáld ki az "Az eljárás kiemelt ügyfele" jelölőnégyzetet(checkbox)
+* Várj, amíg a "Kérelmező (Építtető) típusa" szöveg jelen lesz
+* Válaszd ki a "Kérelmező (Építtető) típusa" legördülő listából a "Természetes személy" címkéjű elemet
+* Írd a "Nagy" szöveget a "Vezetéknév >> nth=0" címkével rendelkező elembe
+* Írd a "Ancsa" szöveget a "Keresztnév >> nth=0" címkével rendelkező elembe
+* Írd ezt a szöveget "Nem Olyan Nagy" a "Születési név" elem alatti "Vezetéknév" címkével rendelkező elembe
+* Írd ezt a szöveget "Ancsa" a "Születési név" elem alatti "Keresztnév" címkével rendelkező elembe
+* Írd a "Miskolc" szöveget a "Születési település" címkével rendelkező elembe
+* Írd a "1991. 12. 21." szöveget a "Születési dátum" címkével rendelkező elembe
+* Írd ezt a szöveget "Kelemen" a "Anyja születési neve" elem alatti "Vezetéknév" címkével rendelkező elembe
+* Írd ezt a szöveget "Anna" a "Anyja születési neve" elem alatti "Keresztnév" címkével rendelkező elembe
+* Írd a "1111" szöveget a "Irányítószám >> nth=0" címkével rendelkező elembe
+* Írd a "Budafoki" szöveget a "Közterület neve >> nth=0" címkével rendelkező elembe
+* Írd a "utca" szöveget a "Közterület jellege >> nth=0" címkével rendelkező elembe
+* Írd a "43" szöveget a "Házszám >> nth=0" címkével rendelkező elembe
+* Írd a "+36909858585" szöveget a "Telefonszám (formátum: +36121234567)" címkével rendelkező elembe
+* Kattints az "Elérhetőség" alatti "Másolás" gombra
+* Kattints az "'Mentés'" gombra
+ Állj!

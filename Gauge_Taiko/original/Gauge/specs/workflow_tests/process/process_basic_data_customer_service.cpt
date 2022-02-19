@@ -1,0 +1,10 @@
+# Eljárás alap adatainak beírása adott <iranyitoszam> irányítószámmal és <nev> névvel
+* Írd a <nev> szöveget a "Piszkozat neve" címkével rendelkező elembe
+* Írd a "Automata folyamat teszt örökségvédelem" szöveget a "Építési tevékenység" címkével rendelkező elembe
+* Írd a <iranyitoszam> szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Teszt" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "utcája" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "69" szöveget a "Házszám" címkével rendelkező elembe
+* Írd a "Valami utca 444" szöveget a "Egyéb cím" címkével rendelkező elembe
+* Írd a "44464420" szöveget a "Helyrajzi szám" címkével rendelkező elembe
+* Írd a "2000000" szöveget a "Számított építményérték (Ft)" címkével rendelkező elembe

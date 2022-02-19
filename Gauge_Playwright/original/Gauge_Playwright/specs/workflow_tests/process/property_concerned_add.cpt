@@ -1,0 +1,11 @@
+# Érintett ingatlan felvétele
+* Kattints az "Érintett ingatlanok" gombra
+* Kattints az "Érintett ingatlan felvétele" gombra
+* Válaszd ki a "Fekvés" legördülő listából a "Belterület" címkéjű elemet
+* Írd az "523423623623" szöveget a "Helyrajzi szám" címkével rendelkező elembe
+* Írd az "9400" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd az "Ács" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd az "utca" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd az "696" szöveget a "Házszám" címkével rendelkező elembe
+* Írd az "Via A. Canova, 228-26250142 Firenze FI" szöveget a "Egyéb cím" címkével rendelkező elembe
+* Nyomj egy Enter-t

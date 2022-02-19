@@ -1,0 +1,13 @@
+# Meghatalmazás cselekmény - eljárás közbeni
+* Kattints a "Kérelem\\s*$" gombra
+* Kattints az "Meghatalmazás" elemre
+* Kattints a "Mellékletek" gombra
+* Kattints a "Új dokumentum feltöltése" gombra
+* Fájl feltöltése
+* Várj, amíg a "Tovább" szöveg látszik
+* Kattints az "Tovább" gombra
+* Várj, amíg a "Küldés" szöveg látszik
+* Fogadd el a "Biztosan el szeretné küldeni?" szöveggel rendelkező böngésző figyelmeztetést
+* Kattints az "Küldés" gombra
+ Várj, amíg a "Sikeres végrehajtás!" szöveg látszik
+ Kattints az "#procinfo-section" gombra

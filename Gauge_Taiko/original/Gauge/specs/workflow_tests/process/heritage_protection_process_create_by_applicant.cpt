@@ -1,0 +1,11 @@
+# Örökségvédelmi eljárás piszkozat létrehozása kérelmezővel
+* Kattints az "Új örökségvédelmi kérelem" gombra
+* Eljárás alap adatainak beírása adott "9400" irányítószámmal és "Piszkozat neve" névvel
+* Válaszd ki a "MainProcessTypeId" ID-val rendelkező legördülő listából a "Örökségvédelmi bejelentés" címkéjű elemet
+* Írd a "Lórum ipse egy cseres álság a túl kevés és a túl sok között. Eredetileg a tető létfések zasztották ki ezt a tikás nevést, amely kenyves füstő és tendő kolmákból igált, s az epőtlet henség számára szűrődzte a gondarták száns bicantását. A nél, sőt tisztet." szöveget a "Kérelem rövid leírása" címkével rendelkező elembe
+* Kattints az "Folytatás" gombra
+* Kattints az "Nem" gombra
+* Kattints a "#IAmPlanner" elemre
+* Válaszd ki a "Kapcsolattartás (döntés közlésének) módja" legördülő listából a "ÉTDR felületen" címkéjű elemet
+* Kattints az "Mentés" gombra
+* Várj, amíg a "Piszkozat szerkesztése" szöveg jelen lesz

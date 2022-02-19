@@ -1,0 +1,33 @@
+# Egyszerű bejelentés piszkozat létrehozás
+* Kattints az "\\s*Új egyszerű bejelentés\\s*$" gombra
+* Várj "2" másodpercet
+* Kattints az "Új egyszerű bejelentés" alatti "Új egyszerű bejelentés" elemre
+* Válaszd ki a "#ProcessStartType" legördülő listából a "Kérelmezőként (Építtetőként)" címkéjű elemet
+* Írd a "Folyamatteszt" szöveget a "Projekt elnevezése" címkével rendelkező elembe
+* Írd a "Mauris sem erat, vestibulum quis convallis ac, consectetur et risus. Nunc luctus nisl enim, vitae pharetra elit finibus a. Fusce mattis eget metus non posuere. Nulla euismod ultrices euismod. Ut ultrices metus vel turpis sollicitudin fermentum. Nulla tor." szöveget a "Bejelentés tárgya, rövid leírása" címkével rendelkező elembe
+* Kattints a ".own-housing" gombra
+* Kattints a "#IsPublicFundUsed" rádiógombra és a "Igen" címke legyen mellette
+* Írd a "9400" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Volánnál" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "utca" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "69" szöveget a "Házszám" címkével rendelkező elembe
+* Írd a "Valami utca 888" szöveget a "Egyéb cím" címkével rendelkező elembe
+* Írd a "69420" szöveget a "Helyrajzi szám" címkével rendelkező elembe
+* Kattints a "#IsSubjectEstateInMonumentArea" rádiógombra és a "Nem" címke legyen mellette
+* Töröld a "number-of-buildings" ID-val rendelekező elem szövegét
+* Írd a "1" szöveget a "#number-of-buildings" címkével rendelkező elembe
+* Válaszd ki a "#NatureOfConstruction" legördülő listából a "NewBuilding" címkéjű elemet
+* Írd a "85456000" szöveget a ".calculated-value .required_field .calculated-building-value" címkével rendelkező elembe
+* Kattints a ".contains-other-function" rádiógombra és a "Nem" címke legyen mellette
+* Írd a "25" szöveget a ".useful-floor-area .required_field" címkével rendelkező elembe
+Hiányos - megoldás kell a ÉPÜLET ADATAI infokhoz
+
+* Kattints a "Folytatás" gombra
+* Kattints a "Nem" gombra
+* Kattints a "#IAmPlanner" elemre
+* Kattints a "Másolás" gombra
+* Kattints az "Mentés" gombra
+* Várj, amíg a "Általános adatok" szöveg látszik 
+* Kattints a "Általános adatok" gombra
+* Jegyezd meg a "#process-number" értékét az "TH_eljaras_azonosito" azonosítóval
+* Eljárás nevének átírása "ENV:TH_eljaras_neve" névre

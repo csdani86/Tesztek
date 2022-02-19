@@ -1,0 +1,13 @@
+# Benyújtott <azon> azonosítójú irat/cselekmény megnyitása
+* Kattints a "Iratok" gombra
+* Bemutató bezárása
+* Várj, amíg a "#FilingList_LPV" elem már nem lesz jelen
+
+TODO: Parametrizálni kell a legördülő lista elemét
+* Válaszd ki a "Nézet" legördülő listából a "Érkeztetésre váró iratok" címkéjű elemet
+* Várj, amíg a "#FilingList_LPV" elem már nem lesz jelen
+* Írd ezt a szöveget <azon> a "#FilingList_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj, amíg az "#FilingList_DXDataRow0" elem látszik
+* Kattints a "#FilingList_DXDataRow0" elemre
+* Várj, amíg a <azon> szöveg jelen lesz

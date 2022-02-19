@@ -1,0 +1,3 @@
+# Expediálás
+* Várj, amíg a "\\s+Expediálás\\s+$" regexp látszik
+* Kattints az "\\s+Expediálás\\s+$" gombra

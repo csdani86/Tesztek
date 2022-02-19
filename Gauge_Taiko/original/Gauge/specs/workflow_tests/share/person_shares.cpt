@@ -1,0 +1,5 @@
+# Személy megosztások
+* Kattints a "Megosztás személy számára" gombra
+* Írd a "ENV:katya_uid" szöveget az "ÉTDR felhasználói azonosító" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj, amíg a "Nyecsajev Ivan Katya" szöveg látszik

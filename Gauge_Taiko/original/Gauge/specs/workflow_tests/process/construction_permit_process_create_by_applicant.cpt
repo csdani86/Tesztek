@@ -1,0 +1,9 @@
+# Építési engedélyezési eljárás piszkozat létrehozása kérelmezővel
+* Eljárás alap adatainak beírása adott "9463" irányítószámmal és "Piszkozat neve" névvel
+* Válaszd ki a "MainProcessTypeId" ID-val rendelkező legördülő listából a "Építési engedélyezési eljárás" címkéjű elemet
+* Írd a "Lórum ipse egy cseres álság a túl kevés és a túl sok között. Eredetileg a tető létfések zasztották ki ezt a tikás nevést, amely kenyves füstő és tendő kolmákból igált, s az epőtlet henség számára szűrődzte a gondarták száns bicantását. A nél, sőt tisztet." szöveget a "Kérelem rövid leírása" címkével rendelkező elembe
+* Kattints az "Folytatás" gombra
+* Kattints az "Nem" gombra
+* Kattints a "#IAmPlanner" elemre
+* Válaszd ki a "Kapcsolattartás (döntés közlésének) módja" legördülő listából a "ÉTDR felületen" címkéjű elemet
+* Kattints az "Mentés" gombra

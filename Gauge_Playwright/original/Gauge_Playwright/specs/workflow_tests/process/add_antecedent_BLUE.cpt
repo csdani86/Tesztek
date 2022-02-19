@@ -1,0 +1,14 @@
+# Előzmény hozzáadása
+* Kattints az "Előzmények" elemre
+* Várj, amíg a "Benyújtott ÉTDR eljárás hozzáadása" szöveg látszik
+* Kattints az "Benyújtott ÉTDR eljárás hozzáadása" elemre
+* Kattints a "#RDProcessListForSelectPartial_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints a "Mentés" elemre
+* Várj, amíg a "EGYÉB ELJÁRÁS HOZZÁADÁSA" szöveg látszik
+* Kattints az "EGYÉB ELJÁRÁS HOZZÁADÁSA" elemre
+* Írd a "54321" szöveget az "Az eljárás iktatószáma" címkével rendelkező elembe
+* Írd a "Hunya kiemelkedő hivatala" szöveget az "Az eljáró hivatal" címkével rendelkező elembe
+* Töröld a "Az eljárás kelte" elem szövegét
+* Írd a "2002. 02. 22." szöveget az "Az eljárás kelte" címkével rendelkező elembe
+* Kattints az "Mentés" elemre
+2002. 02. 22.

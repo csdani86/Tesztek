@@ -1,0 +1,9 @@
+# Hatóság felvétele
+* Kattints a "'Hatóság felvétele'" gombra
+* Ellenőrizd le, hogy a "'Hatóság kiválasztása'" szöveg megtalálható az oldalon
+* Várj, amíg a "Összes hatóság megjelenítése" szöveg látszik
+* Írd a "Vas Megyei Katasztrófavédelmi Igazgatóság" szöveget az "#grid_ListErintettOffices_DXFREditorcol1_I" elembe
+* Nyomj egy Enter-t
+* Kattints a "#grid_ListErintettOffices_DXSelBtn0_D" elemre
+* Kattints a "Mentés" gombra
+* Várj, amíg a "Tovább" szöveg látszik

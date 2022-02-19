@@ -1,0 +1,17 @@
+# Feljegyzés cselekmény létrehozása
+* Várj, amíg az "Eljárás szerkesztése" szöveg látszik
+* Kattints az "\\s+Egyéb\\s+$" gombra
+* Vidd az egeret a "Egyéb" elem fölé
+* Kattints a "\\s+Feljegyzés\\s+$" elemre
+* Kattints az "Általános" gombra
+* Kattints a "Szerkesztés" gombra
+* Válaszd ki a "SenderOfficeScope_Id" ID-val rendelkező legördülő listából a "Építésügy (általános építmények)" címkéjű elemet
+* Írd a "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget cursus nulla. Cras posuere leo quis leo porttitor, quis lacinia nunc consequat. Aliquam neque diam, suscipit et fringilla sed, gravida id ex. Cras faucibgd d gdfg dfgdg fggsf f e fefefs f" szöveget a "#Reason" címkével rendelkező elembe
+* Kattints a "Mentés" gombra
+* Várj, amíg a "Mellékletek" szöveg látszik
+* Kattints a "Mellékletek" gombra
+* Mellékletek csatolása
+* Várj "5" másodpercet
+* Fájl feltöltése hatósági oldal
+* Kattints a "Tovább" gombra
+* Kattints a "Véglegesítés" gombra

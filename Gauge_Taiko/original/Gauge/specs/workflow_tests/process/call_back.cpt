@@ -1,0 +1,18 @@
+# Kérelem visszavonása cselekmény
+* Kattints a "Kérelem visszavonása" elemre
+* Kattints a "Általános" elemre
+* Kattints a "Szerkesztés" elemre
+* Írd a "Visszavonnám ezt a kérelmet... Köki" szöveget a "Indoklás" címkével rendelkező elembe
+* Kattints a "Mentés" elemre
+* Várj, amíg az "Visszavonnám ezt a kérelmet... Köki" szöveg látszik
+* Kattints a "Irat" elemre
+* Jegyezd meg az "#filing-system-number" értékét a "irat_azonosito" azonosítóval
+* Kattints a "Tovább" gombra
+* Várj, amíg a "CACHE:irat_azonosito" szöveg látszik
+* Fogadd el a böngésző figyelmeztetést
+* Kattints a "Küldés" gombra
+* Várj, amíg az "Kérelem visszavonását a rendszer eljuttatta a címzettnek" szöveg látszik
+* Kattints az "Ugrás a Kérelemhez" gombra
+* Kattints az "Cselekmények" gombra
+* Várj, amíg a "Befejezve" szöveg látszik
+* Ellenőrizd le, hogy a "Kérelem visszavonása" szöveg megtalálható az oldalon

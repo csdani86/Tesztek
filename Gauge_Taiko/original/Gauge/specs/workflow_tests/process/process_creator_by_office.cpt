@@ -1,0 +1,25 @@
+# Hivatali <elj_tip> létrehozás <elj_nev> névvel
+* Kattints a "Eljárások" elemre
+* Kattints a "Hozzáadás" elemre
+* Írd a <elj_nev> szöveget a "Piszkozat neve" címkével rendelkező elembe
+* Írd a "építés, bontás" szöveget a "Építési tevékenység" címkével rendelkező elembe
+* Írd a "9400" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Hátulsó" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "téli kikötő" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "55" szöveget a "Házszám" címkével rendelkező elembe
+* Írd a "8230 Balatonfüred, Aranyhíd stny. 6." szöveget a "Egyéb cím" címkével rendelkező elembe
+* Írd a "HHGG6677" szöveget a "Helyrajzi szám" címkével rendelkező elembe
+* Válaszd ki a "MainProcessTypeId" ID-val rendelkező legördülő listából a <elj_tip> címkéjű elemet
+* Kattints a "Mentés" elemre
+* Kattints a "Érintettek" elemre
+* Bemutató bezárása
+* Kattints a "Érintett felvétele" elemre
+* Várj, amíg a "Új érintett partner hozzáadása" szöveg látszik
+* Bemutató bezárása
+* Kattints a "#IsApplicant" checkboxra
+* Válaszd ki a "Kérelmező (Építtető) típusa" legördülő listából a "Természetes személy" címkéjű elemet
+* Írd a "ENV:tervzeors_uid" szöveget a "ÉTDR felhasználói azonosító" címkével rendelkező elembe
+* Kattints a "Elérhetőség" elemre
+* Fogadd el a böngésző figyelmeztetést
+* Kattints a "Mentés" elemre
+* Jegyezd meg a "#procinfo-section" értékét az "TG_eljaras_azonosito" azonosítóval

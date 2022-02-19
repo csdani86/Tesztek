@@ -1,0 +1,10 @@
+# Eljáró <office> hatóság hozzáadása
+* Kattints az "Címzett" elemre
+* Kattints az "Új címzett felvétele" elemre
+* Várj, amíg a "Összes hatóság megjelenítése" szöveg jelen lesz
+* Várj, amíg a "#grid_ListErintettOffices_SearchPanel_CustomEditorName" elem jelen lesz
+* Írd ezt a szöveget <office> a ".dxeTextBoxSys .form-control .d-inline-block dxeTextBoxDefaultWidthSys" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj "1" másodpercet
+* Kattints az "grid_ListErintettOffices_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints az "Mentés" gombra

@@ -1,0 +1,6 @@
+# Ügyintézői státusz szerkesztése
+* Kattints a "Eljárás általános adatai" elemre
+* Kattints a "'Szerkesztés'" gombra
+* Válaszd ki a "#ClerkProcessState_Id" legördülő listából a "Hiánypótlásra vár" címkéjű elemet
+* Kattints a "Mentés" gombra
+* Ellenőrizd le, hogy a "Hiánypótlásra vár" szöveg megtalálható az oldalon

@@ -1,0 +1,9 @@
+# Irat sablon beállítás fájlból
+* Kattints az "css=span:text-is('Irat')" elemre
+* Kattints az "Szerkesztés >> nth=1" gombra
+* Válaszd ki a "Irat képének létrehozása" legördülő listából a "Feltöltéssel" címkéjű elemet
+* Kattints a "Mentés" gombra
+* Kattints a "Iratkép feltöltése" gombra
+* "Erdemi dontes.pdf" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "Erdemi dontes.pdf" szöveg látszik
+* Várj, amíg a "Iratkép megtekintése" szöveg látszik

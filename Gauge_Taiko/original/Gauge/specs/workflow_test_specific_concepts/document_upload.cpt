@@ -1,0 +1,4 @@
+# Fájl feltöltése
+* "teszttxt.txt" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "teszttxt.txt" szöveg látszik
+* Kattints a ".close" elemre

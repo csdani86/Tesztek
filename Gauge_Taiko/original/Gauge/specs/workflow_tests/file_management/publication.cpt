@@ -1,0 +1,14 @@
+# Kiadmányozás
+* Várj, amíg az "Tovább" szöveg látszik
+* Kattints az "Tovább" gombra
+* Várj "3" másodpercet
+* Kattints az "Kiadmányozásra" gombra
+* Kattints az "Bezár" gombra
+* Fogadd el a "Biztosan végre szeretné hajtani a kiadmányozást?" szöveggel rendelkező böngésző figyelmeztetést
+* Ellenőrizd le, hogy a "Ikt. szám mód." szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Kiadmányozás" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Kiadm. visszautasítása" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Kiadm. javítással" szöveg megtalálható az oldalon
+* Kattints az "Kiadmányozás" gombra
+* Várj, amíg az "Az irat kiadmányozása folyamatban van. Kérem várja meg, amíg a rendszer befejezi a műveletet!" szöveg nem lesz jelen
+* Várj, amíg az "Aláírt iratkép megtekintése" szöveg jelen lesz

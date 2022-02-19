@@ -1,0 +1,16 @@
+# Eljárások, Iratok oldal bemutató teszt
+* Várj, amíg a "Információ gomb" szöveg látszik
+* Ellenőrizd le, hogy a "Köszöntjük a megújult oldalon! A következőkben végig kalauzoljuk az újdonságokon. Ha nem szeretné most megnézni, kattintson a jobb felső sarokban található \"X\" gombra, a későbbiekben is bármikor megnézheti a bemutatót, erre a zöld i ikonra kattintva" szöveg megtalálható az oldalon
+* Kattints a "Következő" gombra
+* Várj, amíg a "Kedvenc települések" szöveg látszik
+* Ellenőrizd le, hogy a "Ide kattintva bármikor beállíthatja azokat a településeket, melyekkel Önnek ténylegesen feladata van. A megjelölt települések ügyei és iratai külön megjeleníthetőek lesznek. Ebben a választó listában csak azokat a településeket látja, amik a hatóság illetékességi területéhez tartoznak. A fejlécben lévő négyzetbe kattintva az összes települést kijelölheti, majd a következő kattintással az összes kijelölést törölheti." szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Előző" szöveg megtalálható az oldalon
+* Nyomd meg a "ArrowRight" billentyűt a billentyűzeten
+* Várj, amíg a "Nézet választó" szöveg látszik
+* Ellenőrizd le, hogy a "Ezzel a gombbal választhat, hogy a hatóság illetékességi területe szerinti összes települést, vagy csak a beállított, kedvenc településeket érintő ügyek és iratok jelenjenek meg a táblázatban." szöveg megtalálható az oldalon
+* Nyomd meg a "ArrowRight" billentyűt a billentyűzeten
+* Várj, amíg a "Vége" szöveg látszik
+* Ellenőrizd le, hogy a "Köszönjük, hogy megnézte a bemutatót! Reméljük, hogy az új funkciók segítik a munkáját!" szöveg megtalálható az oldalon
+* Bemutató bezárása
+* Kattints a "#settlement-filter-intro-first-step" elemre
+* Bemutató bezárása

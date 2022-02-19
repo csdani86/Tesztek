@@ -1,0 +1,16 @@
+{
+  "name": "gauge-taiko-template",
+  "description": "Starter template for writing JavaScript tests for Gauge",
+  "scripts": {
+    "test": "gauge run -p -n 6 --tags ready -i specs/ -e ",
+    "rerun": "gauge run --failed"
+  },
+  "dependencies": {
+    "taiko": "1.2.7",
+    "randomstring": "1.2.1"
+  },
+  "devDependencies": {
+    "@getgauge/cli": "1.4.2",
+    "rimraf": "3.0.2"
+  }
+}

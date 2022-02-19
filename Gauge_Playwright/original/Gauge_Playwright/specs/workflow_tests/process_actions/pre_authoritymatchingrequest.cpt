@@ -1,0 +1,22 @@
+# Új építésügyi hatósági szolgáltatás előzetes cselekmény
+* Kattints az "'Előzetes megkeresés'" gombra
+* Kattints az "'Új építésügyi hatósági szolgáltatás'" gombra
+* Kattints az "Címzett" elemre
+* Kattints az "'Elsőfokon eljáró hatóság kiválasztása'" gombra
+* Írd ezt a szöveget "ENV:altalanos_hatosag" a "#grid_ListFirstOffices_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj "1" másodpercet
+* Kattints a "#grid_ListFirstOffices_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints a "Mentés" gombra
+* Kattints a "Mellékletek" gombra
+* Kattints az "Új dokumentum feltöltése" gombra
+* Fájl feltöltése
+* Várj, amíg a "Tovább" szöveg látszik
+* Kattints a "Tovább" gombra
+* Várj, amíg az "ENV:altalanos_hatosag" szöveg látszik
+* Kattints a "Küldés" gombra
+* Várj, amíg az "ENV:altalanos_hatosag" szöveg látszik
+* Kattints az "Piszkozat áttekintése" gombra
+* Kattints az "Cselekmények" gombra
+* Várj, amíg a "Befejezve" szöveg látszik
+* Ellenőrizd le, hogy a "Építésügyi hatósági szolgáltatás" szöveg megtalálható az oldalon

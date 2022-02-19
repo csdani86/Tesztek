@@ -1,0 +1,18 @@
+# Kiss Júlia meghatalamazó hozzáadása varázslóban
+* Válaszd ki a "ApplicantType" ID-val rendelkező legördülő listából a "Természetes személy" címkéjű elemet
+* Írd a "Kiss" szöveget a "Vezetéknév" címkével rendelkező elembe
+* Írd a "Júlia" szöveget a "Keresztnév" címkével rendelkező elembe
+* Írd a "Kissebb" szöveget a "Születési név - vezetéknév" címkével rendelkező elembe
+* Írd a "Júlia" szöveget a "Születési név - keresznév" címkével rendelkező elembe
+* Írd a "Miskolc" szöveget a "Születési település" címkével rendelkező elembe
+* Írd a "1919. 09. 19." szöveget a "Születési dátum" címkével rendelkező elembe
+* Írd a "Debóra" szöveget a "Anyja neve - vezetéknév" címkével rendelkező elembe
+* Írd a "Diabetikusz" szöveget a "Anyja neve - keresztnév" címkével rendelkező elembe
+* Írd a "1111" szöveget a "Irányítószám" címkével rendelkező elembe
+ Írd a "Budapest" szöveget a "Település" címkével rendelkező elembe
+* Írd a "Budafoki" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "utca" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "43" szöveget a "Házszám" címkével rendelkező elembe
+* Írd a "+36908745585" szöveget a "Telefonszám (formátum: +36121234567)" címkével rendelkező elembe
+* Kattints a "#copy" elemre
+* Kattints az "Mentés" elemre

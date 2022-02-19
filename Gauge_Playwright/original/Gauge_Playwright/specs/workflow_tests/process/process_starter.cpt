@@ -1,0 +1,20 @@
+# Eljárás indítása <office> hatóságnál
+* Várj, amíg a "Eljárást indító kérelem" elem látszik
+* Kattints az "Eljárást indító kérelem" elemre
+* Kattints az "'Eljáró hatóság'" elemre, ha tudsz
+* Kattints a "'Elsőfokon eljáró hatóság kiválasztása'" gombra
+* Várj, amíg a "#grid_ListFirstOffices_DXMainTable" elem jelen lesz
+* Írd ezt a szöveget <office> a "#grid_ListFirstOffices_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Kattints az "#grid_ListFirstOffices_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints az "css=input:has-text(\"Mentés\")" gombra
+* Kattints a "Mellékletek" elemre
+* Kattints az "Új dokumentum feltöltése" gombra
+* Fájl feltöltése
+* Várj, amíg a "Tovább" szöveg jelen lesz
+* Kattints az "Tovább" gombra
+* Kattints az "'Benyújtás'" gombra
+* Várj, amíg a "Biztosan be szeretné nyújtani?" szöveg látszik
+* Kattints a "Igen" gombra
+* Kattints az "Ügy áttekintése" gombra
+* Várj, amíg az "Kérelem visszavonása" szöveg látszik

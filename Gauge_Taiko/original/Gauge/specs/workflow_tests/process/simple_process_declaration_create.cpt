@@ -1,0 +1,18 @@
+# Egyszerű bejelentés benyújtása
+* Kattints a "Egyszerű bejelentés benyújtása" elemre
+* Fogadd el a böngésző figyelmeztetést
+* Kattints az "Eljáró hatóság" elemre, ha tudsz
+* Kattints a "Elsőfokon eljáró hatóság kiválasztása\\s*$" gombra
+* Kattints a "#grid_ListFirstOffices_SearchPanel_CustomEditorName" elemre
+* Írd a "Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Főosztály (építésügy, építésfelügyelet, örökségvédelem)" szöveget a "#grid_ListFirstOffices_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Kattints a "Mentés" gombra
+* Kattints a "Mellékletek" elemre
+* Kattints a "Új dokumentum feltöltése" elemre
+* Fájl feltöltése
+* Várj, amíg a "teszttxt.txt" szöveg jelen lesz
+* Kattints a "Tovább" gombra
+* Kattints a "Benyújtás" gombra
+* Várj, amíg a "Biztosan be szeretné nyújtani?" szöveg látszik
+* Kattints a "#confirm-modal-accept-button" gombra
+* Kattints a "Ügy áttekintése" elemre

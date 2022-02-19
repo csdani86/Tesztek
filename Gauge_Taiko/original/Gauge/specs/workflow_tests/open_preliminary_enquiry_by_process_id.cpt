@@ -1,0 +1,6 @@
+# Előzetes megkeresés megnyitása kérelmezői oldalon <eljaras_azonosito> eljárás azonosító alapján
+* Kattints a "Előzetes megkeresések" elemre
+* Írd a <eljaras_azonosito> szöveget az "#ProcessListByUser_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj, amíg a "#ProcessListByUser_DXMainTable" elem jelen lesz
+* Kattints az "ProcessListByUser_DXMainTable" táblázat "2". sor "1". oszlopára

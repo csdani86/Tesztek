@@ -1,0 +1,16 @@
+# Partner felvétele: jogi személy
+* Kattints a "Partner felvétele" gombra
+* Kattints az ".introjs-skipbutton" elemre, ha tudsz
+* Válaszd ki a "Típus" legördülő listából a "Felelős műszaki vezető" címkéjű elemet
+* Kattints a "#IsCorporation" checkboxra
+* Írd a "Nagyon Örökségvédő BÁ" szöveget a "Jogi személy megnevezése" címkével rendelkező elembe
+* Írd a "645152398975451-6485541" szöveget a "Cégjegyzékszám vagy nyilvántartási szám" címkével rendelkező elembe
+* Írd a "645177858552222" szöveget a "Adószám" címkével rendelkező elembe
+* Írd a "Örök Védelmező" szöveget a "Képviselő" címkével rendelkező elembe
+* Írd a "8800" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Lakat" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "utca" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "88." szöveget a "Házszám" címkével rendelkező elembe
+* Kattints a "Másolás" gombra
+* Kattints a "Mentés" gombra
+* Várj, amíg a "Nagyon Örökségvédő BÁ" szöveg látszik

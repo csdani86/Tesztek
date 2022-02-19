@@ -1,0 +1,11 @@
+# Kiadmányozás
+* Várj, amíg az "Tovább" szöveg látszik
+* Kattints az "Tovább" gombra
+* Kattints az "Kiadmányozásra " gombra
+* Kattints az "Bezár" gombra
+* Bemutató bezárása
+* Ellenőrizd le, hogy a "Kiadm. visszautasítása" szöveg megtalálható az oldalon
+* Kattints az "Kiadmányozás >> nth=0" gombra
+* Várj, amíg az "Az irat kiadmányozása folyamatban van. Kérem várja meg, amíg a rendszer befejezi a műveletet!" szöveg nem lesz jelen
+* Kattints az "'Irat'" fülre
+* Várj, amíg az "Aláírt iratkép megtekintése" szöveg jelen lesz

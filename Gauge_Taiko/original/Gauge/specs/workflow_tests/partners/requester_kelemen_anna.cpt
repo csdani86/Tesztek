@@ -1,0 +1,18 @@
+# Kelemen Anna kérelmező hozzáadása
+* Válaszd ki a "Kérelmező (Építtető) típusa" legördülő listából a "Természetes személy" címkéjű elemet
+* Írd a "Kelemen" szöveget a "Vezetéknév" címkével rendelkező elembe
+* Írd a "Annamára" szöveget a "Keresztnév" címkével rendelkező elembe
+* Írd ezt a szöveget "Kelemen" a "Születési név" elem alatti "Vezetéknév" címkével rendelkező elembe
+* Írd ezt a szöveget "Annus" a "Születési név" elem alatti "Keresztnév" címkével rendelkező elembe
+* Írd a "Hatvan" szöveget a "Születési település" címkével rendelkező elembe
+* Írd a "1975. 05. 11." szöveget a "Születési dátum" címkével rendelkező elembe
+* Írd ezt a szöveget "Kelemen" a "Anyja születési neve" elem alatti "Vezetéknév" címkével rendelkező elembe
+* Írd ezt a szöveget "Anna" a "Anyja születési neve" elem alatti "Keresztnév" címkével rendelkező elembe
+* Írd a "1111" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Kazincbarcika" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "utca" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "56" szöveget a "Házszám" címkével rendelkező elembe
+* Írd a "+36909758985" szöveget a "Telefonszám (formátum: +36121234567)" címkével rendelkező elembe
+* Kattints az "Elérhetőség" alatti "Másolás" gombra
+* Kattints az "Mentés" gombra
+* Kattints a "Nem" gombra

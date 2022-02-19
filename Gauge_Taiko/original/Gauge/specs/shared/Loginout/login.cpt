@@ -1,0 +1,7 @@
+# <role>, <userName> felhasználóval, <login_field_id> mezőbe
+* Navigálj az alkalmazáshoz
+* Kattints a "ENV:login_button" elemre
+* Írd a <userName> szöveget a <login_field_id> címkével rendelkező elembe
+* Kattints a "Belépés" elemre
+* Kattints az "Elfogadom" elemre, ha tudsz
+* Kattints a <role> elemre, ha tudsz

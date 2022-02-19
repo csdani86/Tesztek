@@ -1,0 +1,7 @@
+# Szignálás
+* Várj, amíg a "Szignálás" szöveg látszik
+* Várj "2" másodpercet
+* Kattints a "Szignálás" gombra
+* Kattints a "ListClerksByOffice_For_SignOff_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints a "Mentés" gombra
+* Várj, hogy a "Eljárás" szöveg megjelenjen

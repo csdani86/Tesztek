@@ -1,0 +1,16 @@
+# Egyszerű bejelentés benyújtása jogutódlás
+* Kattints a "Egyszerű bejelentés jogutódlás benyújtása" elemre
+* Kattints a "Eljáró hatóság" elemre, ha tudsz
+* Kattints a "Elsőfokon eljáró hatóság kiválasztása  >> nth=1" gombra
+* Írd a "Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Főosztály (építésügy, építésfelügyelet)" szöveget a "#grid_ListFirstOffices_SearchPanel_CustomEditorName" elembe
+* Nyomj egy Enter-t
+* Kattints a "Mentés >> nth=0" gombra
+* Kattints a "Mellékletek >> nth=0" elemre
+* Kattints a "Új dokumentum feltöltése" elemre
+* Fájl feltöltése
+* Várj, amíg a "teszttxt.txt" szöveg jelen lesz
+* Kattints a "Tovább" gombra
+* Kattints a "Benyújtás >> nth=0" gombra
+* Várj, amíg a "Biztosan be szeretné nyújtani?" szöveg látszik
+* Kattints a "#confirm-modal-accept-button" gombra
+* Kattints a "Ügy áttekintése" elemre

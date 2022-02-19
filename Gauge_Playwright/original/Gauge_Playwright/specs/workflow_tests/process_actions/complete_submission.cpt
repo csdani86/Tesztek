@@ -1,0 +1,9 @@
+# Hiánytalan bejelentés cselekmény
+* Kattints az "Egyéb" elemre
+* Kattints a "Hiánytalan bejelentés" elemre
+* Kattints a "Tovább" elemre
+* Kattints a "Véglegesítés" elemre
+* Kattints a "Bezár" elemre
+* Kattints az "/\\s+Eljárás\\s+$/" gombra
+* Kattints a "'Cselekmények'" fülre
+* Ellenőrizd le, hogy a "Hiánytalan bejelentés" szöveg megtalálható az oldalon

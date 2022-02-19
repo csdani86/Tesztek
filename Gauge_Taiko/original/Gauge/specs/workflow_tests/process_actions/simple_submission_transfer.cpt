@@ -1,0 +1,21 @@
+# Egyszerű bejelentés áttétel <eljaro_hatosag> cselekmény
+* Kattints az "Egyszerű bejelentés áttétel" elemre
+* Iktatás
+* Irat sablon beállítás fájlból
+* Kattints az "Általános" elemre
+* Kattints a "Címzettek \\(0\\)" elemre
+* Kattints a "Hatóság felvétele" elemre
+* Kattints a "Összes hatóság megjelenítése" elemre
+* Írd a "Építésfelügyelet (általános építmények)" szöveget a "#grid_ListErintettOffices_DXFREditorcol2_I" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Írd a <eljaro_hatosag> szöveget a "#grid_ListErintettOffices_DXFREditorcol1_I" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj "2" másodpercet
+* Kattints a "grid_ListErintettOffices_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints a "Mentés" elemre
+* Várj, amíg a <eljaro_hatosag> szöveg látszik
+* Kiadmányozás
+* Expediálás
+* Kattints az "Eljárás" gombra
+* Kattints az "Cselekmények" gombra
+* Várj, amíg a "Egyszerű bejelentés áttétel" szöveg látszik

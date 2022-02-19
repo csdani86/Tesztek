@@ -1,0 +1,29 @@
+# Fájlok feltöltése hatósági oldal
+* Várj, amíg a "Új dokumentum feltöltése" szöveg látszik
+* Kattints a "Új dokumentum feltöltése" gombra
+* "tesztjpg.jpg" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "tesztjpg.jpg" szöveg látszik
+* "teszttxt.txt" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "teszttxt.txt" szöveg látszik
+* "tesztifc.ifc" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "tesztifc.ifc" szöveg látszik
+* "011_-_TesztDok005.pdf" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "011_-_TesztDok005.pdf" szöveg látszik
+* "file-sample_1MB.doc" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "file-sample_1MB.doc" szöveg látszik
+* Várj, amíg a "Nem tölthet fel ilyen típusú fájlokat" szöveg látszik
+* "007_-_TesztDok001.pdf" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "007_-_TesztDok001.pdf" szöveg látszik
+* "008_-_TesztDok002.pdf" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "008_-_TesztDok002.pdf" szöveg látszik
+* "009_-_TesztDok003.pdf" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "009_-_TesztDok003.pdf" szöveg látszik
+* "010_-_TesztDok004.pdf" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "010_-_TesztDok004.pdf" szöveg látszik
+* "iratkep.docx" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a "iratkep.docx" szöveg látszik
+* Várj, amíg a "Nem tölthet fel ilyen típusú fájlokat" szöveg látszik
+* Várj, amíg a "010_-_TesztDok004.pdf" szöveg nem lesz jelen
+* Kattints a "Vissza" gombra
+* Várj, amíg a "010_-_TesztDok004.pdf" szöveg jelen lesz
+* Bemutató bezárása

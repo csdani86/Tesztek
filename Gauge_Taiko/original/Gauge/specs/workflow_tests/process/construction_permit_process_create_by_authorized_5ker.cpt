@@ -1,0 +1,12 @@
+# Építési engedélyezési eljárás piszkozat létrehozása meghatalmazottként V ker
+* Eljárás alap adatainak beírása adott "1056" irányítószámmal és "Meghatalmazottként" eljárás inditó móddal
+* Válaszd ki a "MainProcessTypeId" ID-val rendelkező legördülő listából a "Építési engedélyezési eljárás" címkéjű elemet
+* Várj, amíg a "Kérelem rövid leírása" szöveg látszik
+* Írd a "Lórum ipse egy cseres álság a túl kevés és a túl sok között. Eredetileg a tető létfések zasztották ki ezt a tikás nevést, amely kenyves füstő és tendő kolmákból igált, s az epőtlet henség számára szűrődzte a gondarták száns bicantását. A nél, sőt tisztet." szöveget a "Kérelem rövid leírása" címkével rendelkező elembe
+* Kattints az "Folytatás" elemre
+* Kiss Júlia meghatalamazó hozzáadása varázslóban
+* Várj, amíg a "Van-e másik kérelmezője az eljárásnak?" szöveg jelen lesz
+* Kattints az "Nem" elemre
+* Válaszd ki az "Én vagyok a tervező építész" jelölőnégyzetet(checkbox)
+* Kattints a "#copy" elemre
+* Kattints az "Mentés" elemre

@@ -1,0 +1,11 @@
+# Építési engedélyezési eljárás piszkozat létrehozása
+* Eljárás alap adatainak beírása adott "9463" irányítószámmal és "Piszkozat neve" névvel
+* Válaszd ki a "#MainProcessTypeId" legördülő listából az "Építési engedélyezési eljárás" címkéjű elemet
+* Írd a "Mauris sem erat, vestibulum quis convallis ac, consectetur et risus. Nunc luctus nisl enim, vitae pharetra elit finibus a. Fusce mattis eget metus non posuere. Nulla euismod ultrices euismod. Ut ultrices metus vel turpis sollicitudin fermentum. Nulla tor." szöveget a "Kérelem rövid leírása" címkével rendelkező elembe
+* Kattints az "Folytatás" gombra
+* Kattints a "Igen" elemre, ha tudsz
+* Kelemen Anna kérelmező hozzáadása
+* Nagy Júlia tervező hozzáadása varázslóban
+* Kattints az "Érintett felvétele" gombra
+* Nagy Ancsa kérelmező hozzáadása
+* Kattints a "Általános adatok" elemre

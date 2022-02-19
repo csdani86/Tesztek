@@ -1,0 +1,26 @@
+# Érintett hozzáadása Nagy Ancsa
+* Kattints a "Érintett felvétele" elemre
+* Várj, amíg a "Új érintett partner hozzáadása" szöveg látszik
+* Kattints a "#IsApplicant" checkboxra
+* Válaszd ki a "Kérelmező (Építtető) típusa" legördülő listából a "Természetes személy" címkéjű elemet
+* Írd a "Nagy" szöveget a "Vezetéknév" címkével rendelkező elembe
+* Írd a "Ancsa" szöveget a "Keresztnév" címkével rendelkező elembe
+* Írd a "Nem Olyan Nagy" szöveget a "Születési név - vezetéknév" címkével rendelkező elembe
+* Írd a "Ancsa" szöveget a "Születési név - keresznév" címkével rendelkező elembe
+* Ellenőrizd le, hogy a "Magyarország" szöveg megtalálható az oldalon
+* Írd a "Miskolc" szöveget a "Születési település" címkével rendelkező elembe
+* Írd a "1991. 12. 21." szöveget a "Születési dátum" címkével rendelkező elembe
+* Írd a "Kelemen" szöveget a "Anyja neve - vezetéknév" címkével rendelkező elembe
+* Írd a "Anna" szöveget a "Anyja neve - keresztnév" címkével rendelkező elembe
+* Ellenőrizd le, hogy a "magyar" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Magyarország" szöveg megtalálható az oldalon
+* Írd a "1111" szöveget a "#Address_Iranyitoszam" címkével rendelkező elembe
+* Írd a "Budafoki" szöveget a "#Address_Kozterulet" címkével rendelkező elembe
+* Írd a "utca" szöveget a "#Address_KozteruletJelleg" címkével rendelkező elembe
+* Írd a "43" szöveget a "#Address_Hazszam" címkével rendelkező elembe
+* Írd a "+36909858585" szöveget a "#Phone" címkével rendelkező elembe
+* Válaszd ki a "ContactType" ID-val rendelkező legördülő listából a "Postai" címkéjű elemet
+* Kattints a "#copy" elemre
+* Fogadd el a böngésző figyelmeztetést
+* Kattints a "Mentés" gombra
+* Várj, amíg a "Nagy Ancsa" szöveg látszik

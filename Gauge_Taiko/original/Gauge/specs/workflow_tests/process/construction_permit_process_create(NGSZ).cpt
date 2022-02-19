@@ -1,0 +1,21 @@
+
+# Építési engedélyezési eljárás piszkozat létrehozása (NGSZ) és benyújtása
+* Eljárás alap adatainak beírása adott "9463" irányítószámmal és "Piszkozat neve" névvel
+* Válaszd ki a "MainProcessTypeId" ID-val rendelkező legördülő listából a "Építési engedélyezési eljárás" címkéjű elemet
+* Írd a "Mauris sem erat, vestibulum quis convallis ac, consectetur et risus. Nunc luctus nisl enim, vitae pharetra elit finibus a. Fusce mattis eget metus non posuere. Nulla euismod ultrices euismod. Ut ultrices metus vel turpis sollicitudin fermentum. Nulla tor." szöveget a "Kérelem rövid leírása" címkével rendelkező elembe
+* Kattints a "#Ngsz_true" rádiógombra
+* Írd a "Itthon" szöveget az "Kijelölő jogszabályhely" címkével rendelkező elembe
+* Kattints az "Folytatás" gombra
+* Kelemen Anna kérelmező hozzáadása
+* Nagy Júlia tervező hozzáadása varázslóban
+* Kattints az "Érintett felvétele" gombra
+* Nagy Ancsa kérelmező hozzáadása
+* Tárgyi ingatlan szerkesztése
+* Kattints a "Általános adatok" elemre
+* Jegyezd meg a "#process-number" értékét a "TA_eljaras_azonosito" azonosítóval
+* Kattints az "Szerkesztés" gombra
+* Várj, amíg a "Megnevezés" szöveg látszik
+* Töröld a "Megnevezés" elem szövegét
+* Írd a "ENV:TA_eljaras_neve" szöveget a "Megnevezés" címkével rendelkező elembe
+* Kattints az "Mentés" gombra
+* Eljárás indítása "ENV:altalanos_hatosag" hatóságnál

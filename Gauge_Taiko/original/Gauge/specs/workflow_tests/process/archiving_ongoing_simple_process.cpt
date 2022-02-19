@@ -1,0 +1,19 @@
+# Irattározás folyamatban lévő egyszerű bejelentésnél
+* Kattints az "Ügyirat" gombra
+* Várj, amíg az "Irattározásra" szöveg látszik
+* Fogadd el a "Az irattározás a határidő számítást véglegesen megállítja. Amennyiben ez eljárásjogilag nem megfelelő, kérjük nyomjon a \"Mégse\" gombra." szöveggel rendelkező böngésző figyelmeztetést
+* Kattints a "Irattározásra" elemre
+* Kattints az "Általános" elemre
+* Kattints a "Szerkesztés" gombra
+* Várj, amíg a "Szakterület" szöveg jelen lesz
+* Válaszd ki a "SenderOfficeScope_Id" ID-val rendelkező legördülő listából a "Építésügy (általános építmények)" címkéjű elemet
+* Írd a "Feljegyzés indokja az Irattárhoz" szöveget a "Indoklás" címkével rendelkező elembe
+* Kattints a "Mentés" gombra
+* Ellenőrizd le, hogy a "Feljegyzés indokja az Irattárhoz" szöveg megtalálható az oldalon
+* Kattints a "Tovább" gombra
+* Kattints a "Véglegesítés" gombra
+* Ellenőrizd le, hogy a "Feljegyzését a rendszer rögzítette" szöveg megtalálható az oldalon
+* Kattints az "Bezár" gombra
+* Kattints az "Vissza" gombra
+* Kattints az "Eljárás általános adatai" gombra
+* Várj, amíg a "Irattározásra" szöveg jelen lesz

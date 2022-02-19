@@ -1,0 +1,9 @@
+# Értesítések: megosztott ügy megnyitása adott <eljaras_azon> eljárás azonosítóval
+* Kattints a "Értesítések" gombra
+* Várj, amíg az "#MessageList_DXMainTable" elem jelen lesz
+* Írd ezt a szöveget <eljaras_azon> a "#MessageList_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Kattints a "#MessageList_DXMainTable" táblázat "2". sor "1". oszlopára
+* Várj, amíg a <eljaras_azon> szöveg látszik
+* Kattints a "Visszatérés a kérelmezői felületre" gombra
+* Várj, amíg a "Új piszkozat létrehozása" szöveg látszik

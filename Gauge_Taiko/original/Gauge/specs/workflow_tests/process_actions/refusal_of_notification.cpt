@@ -1,0 +1,21 @@
+# Bejelentés visszautasítása cselekmény
+* Kattints a "Ell. bej." gombra
+* Kattints a "Bejelentés visszautasítása" gombra
+* Irat sablon beállítás fájlból
+* Iktatás
+* Kattints az "Általános" elemre
+* Kattints a "Szerkesztés" gombra
+* Várj, amíg a "Szakterület" szöveg jelen lesz
+* Válaszd ki a "SenderOfficeScope_Id" ID-val rendelkező legördülő listából a "Építésügy (általános építmények)" címkéjű elemet
+* Kattints a "#OrderType_BejelentesVisszautasitasanakOka" elemre
+* Ellenőrizd le, hogy a "Nem tartozik a törvény hatálya alá" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Díjfizetés nem teljesítése" szöveg megtalálható az oldalon
+* Válaszd ki a "OrderType_BejelentesVisszautasitasanakOka" ID-val rendelkező legördülő listából a "Díjfizetés nem teljesítése" címkéjű elemet
+* Kattints a "Mentés" gombra
+* Kattints a "Mellékletek" gombra
+* Fájl feltöltése hatósági oldal
+* Kiadmányozás
+* Expediálás
+* Kattints a "Eljárás" gombra
+* Kattints a "Cselekmények" gombra
+* Várj, amíg az "Bejelentés visszautasítása" szöveg jelen lesz

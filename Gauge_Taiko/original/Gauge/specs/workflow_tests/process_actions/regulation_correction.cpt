@@ -1,0 +1,15 @@
+# Határozat módosítása expediálás után
+* Kattints a "Határozat" elemre
+* Vidd az egeret a "Rontott határozat" elem fölé
+* Kattints a "Határozat kijavítása" elemre
+* Kattints a "Általános" elemre
+* Kattints a "Szerkesztés" elemre
+* Válaszd ki a "SenderOfficeScope_Id" ID-val rendelkező legördülő listából a "Építésügy (általános építmények)" címkéjű elemet
+* Írd a "Ez itt egy döntés rövid tartalma!" szöveget a "Döntés rövid tartalma" címkével rendelkező elembe
+* Kattints a "Mentés" elemre
+* Iktatás
+* Irat sablon beállítás
+* Kattints az "Mellékletek" elemre
+* Fájl feltöltése hatósági oldal
+* Kiadmányozás
+* Expediálás

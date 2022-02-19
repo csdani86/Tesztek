@@ -1,0 +1,34 @@
+# Egyszerű bejelentés műemlék piszkozat létrehozás
+* Kattints az "\\s*Egyszerű bejelentés\\s*$" gombra
+* Kattints az "\\s*Új egyszerű bejelentés\\s*$" gombra
+* Válaszd ki a "ProcessStartType" ID-val rendelkező legördülő listából a "Kérelmezőként (Építtetőként)" címkéjű elemet
+* Írd a "Folyamatteszt" szöveget a "Projekt elnevezése" címkével rendelkező elembe
+* Írd a "Mauris sem erat, vestibulum quis convallis ac, consectetur et risus. Nunc luctus nisl enim, vitae pharetra elit finibus a. Fusce mattis eget metus non posuere. Nulla euismod ultrices euismod. Ut ultrices metus vel turpis sollicitudin fermentum. Nulla tor." szöveget a "Bejelentés tárgya, rövid leírása" címkével rendelkező elembe
+* Kattints a "#ConstructionForOwnUse_true" rádiógombra
+* Kattints a "#IsPublicFundUsed_false" rádiógombra és a "Nem" címke legyen mellette
+* Írd a "9400" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Nemes Elek" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "utca" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "850" szöveget a "Házszám" címkével rendelkező elembe
+* Írd a "Teszt utca 888" szöveget a "Egyéb cím" címkével rendelkező elembe
+* Írd a "69420" szöveget a "Helyrajzi szám" címkével rendelkező elembe
+* Kattints a "#IsSubjectEstateInMonumentArea_true" rádiógombra
+* Töröld a "number-of-buildings" ID-val rendelekező elem szövegét
+* Írd a "1" szöveget a "#number-of-buildings" címkével rendelkező elembe
+* Válaszd ki a "NatureOfConstruction" ID-val rendelkező legördülő listából a "NewBuilding" címkéjű elemet
+* Írd a "65000000" szöveget a ".calculated-value .required_field .calculated-building-value" címkével rendelkező elembe
+* Kattints a ".contains-other-function" rádiógombra
+* Írd a "250" szöveget a ".useful-floor-area .required_field" címkével rendelkező elembe
+
+TODO: megoldás kell a ÉPÜLET ADATAI infokhoz, fejleszteni is kell!!!
+
+* Kattints a "Mentés és ugrás a piszkozatra" gombra
+* Érintett hozzáadása Nagy Ancsa
+* Várj, amíg a "Érintett felvétele" szöveg látszik
+* Kattints a "Érintett felvétele" elemre
+* Nagy Júlia tervező hozzáadása
+* Várj, amíg a "Általános adatok" szöveg látszik 
+* Kattints a "Általános adatok" gombra
+* Jegyezd meg a "#process-number" értékét az "TI_eljaras_azonosito" azonosítóval
+* Eljárás nevének átírása "ENV:TI_eljaras_neve" névre
+* Egyszerű bejelentés benyújtása

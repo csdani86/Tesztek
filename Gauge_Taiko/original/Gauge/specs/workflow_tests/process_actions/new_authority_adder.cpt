@@ -1,0 +1,9 @@
+# <hatosag> hatóság címzettnek felvétele
+* Kattints a "Hatóság felvétele" gombra
+* Kattints a "Összes hatóság megjelenítése" gombra
+* Írd a <hatosag> szöveget a "#grid_ListErintettOffices_DXFREditorcol1_I" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj "2" másodpercet
+* Kattints a "grid_ListErintettOffices_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints a "Mentés" elemre
+* Várj, amíg a <hatosag> szöveg jelen lesz

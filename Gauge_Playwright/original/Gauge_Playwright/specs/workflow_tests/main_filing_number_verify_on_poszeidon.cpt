@@ -1,0 +1,12 @@
+# Főszámos Iktatószám ellenőrzése Poszeidonben adott iktatószámmal <iktszam>
+* Kattints a "'Ügyiratok'" gombra
+* Várj "2" másodpercet
+* Várj, amíg az ".progress-bar" elem már nem látszik
+* Várj "2" másodpercet
+* Írd a <iktszam> szöveget az "#gs_Ugyiratok_Index_Grid_Iktatoszam" elembe
+* Nyomj egy Enter-t
+* Várj, amíg az ".progress-bar" elem már nem látszik
+* Várj, amíg a <iktszam> szöveg látszik
+* Kattints duplán az <iktszam> elemre
+* Várj, amíg az "'Papír'" szöveg látszik
+* Ellenőrizd le, hogy az elem "#IrattairTervTetelId" nem üres az oldalon

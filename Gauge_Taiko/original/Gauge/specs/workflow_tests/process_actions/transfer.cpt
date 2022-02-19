@@ -1,0 +1,24 @@
+# Ügyirat áttétel <arg0> cselekmény
+* Kattints a "Végzés" gombra
+* Kattints az "Ügyirat áttétele" elemre
+* Iktatás
+* Irat sablon beállítás
+* Kattints az "Általános" elemre
+* Kattints a "Szerkesztés" gombra
+* Várj, amíg a "Szakterület" szöveg jelen lesz
+* Válaszd ki a "SenderOfficeScope_Id" ID-val rendelkező legördülő listából a "Építésügy (általános építmények)" címkéjű elemet
+* Kattints a "Mentés" gombra
+* Kattints a "Címzettek \\(0\\)" elemre
+* Kattints a "Hatóság felvétele" elemre
+* Kattints a "Összes hatóság megjelenítése" elemre
+* Írd a "Építésügy (általános építmények)" szöveget a "#grid_ListErintettOffices_DXFREditorcol2_I" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Írd a <arg0> szöveget a "#grid_ListErintettOffices_DXFREditorcol1_I" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj "2" másodpercet
+* Kattints a "grid_ListErintettOffices_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints a "Mentés" elemre
+* Várj, amíg a <arg0> szöveg jelen lesz
+* Kiadmányozás
+* Expediálás
+

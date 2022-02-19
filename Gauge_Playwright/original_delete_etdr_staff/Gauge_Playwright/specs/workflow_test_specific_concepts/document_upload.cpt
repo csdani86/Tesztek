@@ -1,0 +1,5 @@
+# Fájl feltöltése
+* "teszttxt.txt" fájl feltöltése a ".dz-hidden-input" mezőn keresztül
+* Várj, amíg a ".dz-progress" elem már nem lesz jelen
+* Kattints a "Dokumentum feltöltés × >> [aria-label=\"Close\"]" elemre
+* Várj, amíg a ".modal-dialog" elem már nem látszik

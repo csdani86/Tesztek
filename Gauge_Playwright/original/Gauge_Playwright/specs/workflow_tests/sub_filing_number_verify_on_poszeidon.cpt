@@ -1,0 +1,12 @@
+# Alszámos Iktatószám ellenőrzése Poszeidonben adott iktatószámmal <ikatoszam>
+* Kattints a "'Iratok'" gombra
+* Várj "2" másodpercet
+* Várj, amíg az ".progress-bar" elem már nem látszik
+* Várj "2" másodpercet
+* Írd a <ikatoszam> szöveget az "#gs_Iratok_Index_Grid_IktatasiSzam" elembe
+* Nyomj egy Enter-t
+* Várj, amíg az ".progress-bar" elem már nem látszik
+* Várj, amíg a <ikatoszam> szöveg látszik
+* Kattints duplán az <ikatoszam> elemre
+* Várj, amíg az "'Eredeti dokumentum'" szöveg látszik
+* Ellenőrizd le, hogy az elem "#IrattariTervTetelId" nem üres az oldalon

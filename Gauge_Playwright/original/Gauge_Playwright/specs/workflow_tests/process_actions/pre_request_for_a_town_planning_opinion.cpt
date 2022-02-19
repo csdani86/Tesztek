@@ -1,0 +1,15 @@
+# Településképi vélemény kérés cselekmény - előzetes
+* Kattints az "Előzetes megkeresés\\s*$" gombra
+* Kattints a "Településképi vélemény kérés" gombra
+* Eljáró "ENV:polgarmester_szakhat" hatóság hozzáadása
+* Kattints az "Mellékletek" gombra
+* Kattints az "Új dokumentum feltöltése" gombra
+* Fájl feltöltése
+* Várj, amíg a "teszttxt.txt" szöveg látszik
+* Kattints a "Tovább" gombra
+* Kattints a "Küldés" gombra
+* Várj, amíg az "ENV:polgarmester_szakhat" szöveg látszik
+* Kattints az "Piszkozat áttekintése" gombra
+* Kattints az "Cselekmények" gombra
+* Várj, amíg a "Befejezve" szöveg látszik
+* Ellenőrizd le, hogy a "Településképi vélemény kérés" szöveg megtalálható az oldalon

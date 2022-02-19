@@ -1,0 +1,14 @@
+# <tag> címke létrehozása
+* Kattints az "Új címke hozzáadása" elemre
+* Írd a <tag> szöveget a "Megnevezés" címkével rendelkező elembe
+* Írd a "#94e334" szöveget a "Háttér színe" címkével rendelkező elembe
+* Írd a "#395418" szöveget a "Szegély színe" címkével rendelkező elembe
+* Írd a "#db4a30" szöveget a "Szöveg színe" címkével rendelkező elembe
+* Válaszd ki a "Prioritás" legördülő listából a "Fontos" címkéjű elemet
+* Válaszd ki a "Látható kék oldalon is" jelölőnégyzetet(checkbox)
+* Kattints a "Mentés" elemre
+* Ellenőrizd le, hogy az "A címke sikeresen létre lett hozva." szöveg megtalálható az oldalon
+* Kattints a "Vissza" elemre
+
+ TODO: ha működik a szerkesztés akkor azt is le kell tesztelni
+ Kattints a "Mentés" elemre

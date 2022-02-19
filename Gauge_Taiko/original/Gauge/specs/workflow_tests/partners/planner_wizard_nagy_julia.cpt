@@ -1,0 +1,19 @@
+# Nagy Júlia tervező hozzáadása varázslóban
+* Válaszd ki a "SelectedTervJog" ID-val rendelkező legördülő listából a "ÉKE" címkéjű elemet
+* Válaszd ki a "SelectedTeruletiKamara" ID-val rendelkező legördülő listából a "9" címkéjű elemet
+* Írd a "420" szöveget a "#KamaraTagSzam" címkével rendelkező elembe
+* Írd a "Nagy" szöveget a "Vezetéknév" címkével rendelkező elembe
+* Írd a "Júlia" szöveget a "Keresztnév" címkével rendelkező elembe
+* Írd ezt a szöveget "Nagy" a "Születési név" elem alatti "Vezetéknév" címkével rendelkező elembe
+* Írd ezt a szöveget "Júlia" a "Születési név" elem alatti "Keresztnév" címkével rendelkező elembe
+* Írd a "Hatvan" szöveget a "Születési település" címkével rendelkező elembe
+* Írd a "1975. 05. 11." szöveget a "Születési dátum" címkével rendelkező elembe
+* Írd ezt a szöveget "Kelemen" a "Anyja születési neve" elem alatti "Vezetéknév" címkével rendelkező elembe
+* Írd ezt a szöveget "Anna" a "Anyja születési neve" elem alatti "Keresztnév" címkével rendelkező elembe
+* Írd a "1111" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Kazincbarcika" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "utca" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "56" szöveget a "Házszám" címkével rendelkező elembe
+* Írd a "+36909758985" szöveget a "Telefonszám (formátum: +36121234567)" címkével rendelkező elembe
+* Kattints az "Elérhetőség" alatti "Másolás" gombra
+* Kattints az "Mentés" gombra

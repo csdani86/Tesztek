@@ -1,0 +1,18 @@
+# Hiánypótlási felhívás cselekmény <hatosag>
+* Kattints a "Végzés" gombra
+* Kattints az "Hiánypótlási felhívás" elemre
+* Iktatás
+* Irat sablon beállítás
+* Kattints az "Általános" elemre
+* Kattints a "Szerkesztés" gombra
+* Várj, amíg a "Szakterület" szöveg jelen lesz
+* Válaszd ki a "SenderOfficeScope_Id" ID-val rendelkező legördülő listából a "Építésügy (általános építmények)" címkéjű elemet
+* Írd a "Nagyon kellenek a doksik küldjed be" szöveget a "Indoklás" címkével rendelkező elembe
+* Kattints a "Mentés" gombra
+* Kiadmányozás
+* Expediálás
+* Kattints az "Irat$" elemre
+* Jegyezd meg a "#filing-system-number" értékét a <hatosag> azonosítóval
+* Kattints a "Eljárás" gombra
+* Kattints a "Cselekmények" gombra
+* Várj, amíg az "Hiánypótlási felhívás" szöveg jelen lesz

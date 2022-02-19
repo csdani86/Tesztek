@@ -1,0 +1,17 @@
+# Egyszerű bejelentés jogutódlás
+* Kattints a "Új egyszerű bejelentés >> nth=0" elemre
+* Kattints a "Egyszerű bejelentés jogutódlás" elemre
+* Írd a "Folyamatteszt" szöveget az "Projekt elnevezése" címkével rendelkező elembe
+* Írd a "Mauris sem erat, vestibulum quis convallis ac, consectetur et risus. Nunc luctus nisl enim, vitae pharetra elit finibus a. Fusce mattis eget metus non posuere. Nulla euismod ultrices euismod. Ut ultrices metus vel turpis sollicitudin fermentum. Nulla tor." szöveget az "Bejelentés tárgya, rövid leírása *" címkével rendelkező elembe
+* Kattints a "Igen >> input[name=\"ConstructionForOwnUse\"]" rádiógombra
+* Írd a "9400" szöveget az "Irányítószám" címkével rendelkező elembe
+* Írd a "Teszt" szöveget az "Közterület neve" címkével rendelkező elembe
+* Írd a "utcája" szöveget az "Közterület jellege" címkével rendelkező elembe
+* Írd a "69" szöveget az "Házszám" címkével rendelkező elembe
+* Írd a "Valami utca 444" szöveget az "Egyéb cím" címkével rendelkező elembe
+* Írd a "44464420" szöveget az "Helyrajzi szám" címkével rendelkező elembe
+* Kattints a "Folytatás" elemre
+* Kattints a "#confirm-modal-accept-button" gombra
+* Kattints a "Érintettek" elemre, ha tudsz
+* Kattints az "Érintett felvétele" elemre
+* Nagy Júlia tervező hozzáadása

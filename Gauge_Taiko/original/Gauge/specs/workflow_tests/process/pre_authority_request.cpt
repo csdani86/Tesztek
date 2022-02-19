@@ -1,0 +1,18 @@
+# Előzetes szakhatósági állásfoglalás kérése cselekmény
+* Kattints az "Előzetes megkeresés\\s*$" gombra
+* Kattints a "Előzetes szakhatósági állásfoglalás kérése" gombra
+* Kattints az "Mellékletek" gombra
+* Kattints az "Új dokumentum feltöltése" gombra
+* Fájl feltöltése
+* Eljáró "ENV:vas_megye_szakhat" hatóság hozzáadása
+* Várj, amíg a "Tovább" szöveg látszik
+* Kattints a "Tovább" gombra
+* Várj, amíg az "ENV:vas_megye_szakhat" szöveg látszik
+* Görgess a "Küldés" elemig
+* Fogadd el a böngésző figyelmeztetést
+* Kattints a "Küldés" gombra
+* Várj, amíg az "ENV:vas_megye_szakhat" szöveg látszik
+* Kattints az "Piszkozat áttekintése" gombra
+* Kattints az "Cselekmények" gombra
+* Várj, amíg a "Befejezve" szöveg látszik
+* Ellenőrizd le, hogy a "Előzetes szakhatósági" szöveg megtalálható az oldalon

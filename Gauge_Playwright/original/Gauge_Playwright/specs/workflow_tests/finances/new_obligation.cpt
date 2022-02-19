@@ -1,0 +1,10 @@
+# Új pénzügyi kötelezés készítése
+* Kattints a "Új kötelezés készítése" gombra
+* Válaszd ki a "Kötelezés jogcíme" legördülő listából a "Bírság" címkéjű elemet
+* Töröld a "Kötelezés összege" elem szövegét
+* Írd a "5000000" szöveget a "Kötelezés összege" címkével rendelkező elembe
+* Írd a "Kötelezettség megjegyzése" szöveget az "Hivatkozás, megjegyzés" címkével rendelkező elembe
+* Válaszd ki a "Érintett partner" legördülő listából a "Tervez Örs" címkéjű elemet
+* Kattints az "Mentés" gombra
+* Ellenőrizd le, hogy a "Kötelezettség megjegyzése" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "-5 000 000 Ft" szöveg megtalálható az oldalon

@@ -1,0 +1,14 @@
+# Kérelem módosítása
+
+* Kattints a "Kérelem\\s*$" gombra
+* Kattints az "Kérelem módosítása, kiegészítése" elemre
+* Kattints a "Mellékletek" gombra
+* Kattints a "Új dokumentum feltöltése" gombra
+* Fájl feltöltése
+* Várj, amíg a "Tovább" szöveg látszik
+* Kattints az "Tovább" gombra
+* Görgess a "Küldés" elemig
+* Fogadd el a "Biztosan el szeretné küldeni?" szöveggel rendelkező böngésző figyelmeztetést
+* Kattints az "Küldés" gombra
+* Várj, amíg a "Sikeres végrehajtás!" szöveg látszik
+* Kattints az "#procinfo-section" gombra

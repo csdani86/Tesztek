@@ -1,0 +1,18 @@
+# Rontott határozat - Határozat kijavítása cselekmény
+* Várj, amíg a "Határozat" szöveg jelen lesz
+* Kattints a "Határozat" elemre
+* Várj, amíg a "Rontott határozat" szöveg látszik
+* Vidd az egeret a "Rontott határozat" elem fölé
+* Kattints az "Határozat kijavítása" elemre
+* Iktatás
+* Kattints az "Mellékletek" elemre
+* Mellékletek csatolása
+* Irat sablon beállítás
+* Kattints az "Általános" elemre
+* Kattints a "Szerkesztés" gombra
+* Várj, amíg a "Szakterület" szöveg jelen lesz
+* Válaszd ki a "#SenderOfficeScope_Id" legördülő listából az "Építésügy (általános építmények)" címkéjű elemet
+* Ellenőrizd le, hogy a "Határozat kijavítása" szöveg megtalálható az oldalon
+* Kattints a "Mentés" gombra
+* Kiadmányozás
+* Expediálás

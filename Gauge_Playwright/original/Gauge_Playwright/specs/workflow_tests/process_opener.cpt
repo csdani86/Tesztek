@@ -1,0 +1,7 @@
+# Benyújtott <azon> azonosítójú cselekmény megnyitása
+* Kattints a "'Eljárások'" gombra
+* Válaszd ki a "'Nézet'" legördülő listából a "Hatóság összes eljárása" címkéjű elemet
+* Bemutató bezárása
+* Írd ezt a szöveget <azon> a "#ProcessListByOffice_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Kattints a "#ProcessListByOffice_DXDataRow0" fülre és válts az újjonan megnyíló böngésző fülre

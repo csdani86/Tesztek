@@ -1,0 +1,7 @@
+# Érkeztetés
+ Várj, amíg a "Kézi érkeztetés" szöveg látszik
+* Kattints a "Kézi érkeztetés" gombra
+ Várj, amíg az "Érkeztetőszám megadása" szöveg látszik
+* Írd a "RAND:alphanumeric:6" szöveget a "Érkeztetőszám >> nth=2 " címkével rendelkező elembe
+* Kattints a "Mentés" gombra
+* Várj, amíg a "Érkeztetőszám megadása" elem már nem látszik

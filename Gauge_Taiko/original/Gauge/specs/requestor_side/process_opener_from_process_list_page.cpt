@@ -1,0 +1,6 @@
+# Kérelmezői oldal: eljárás megnyitása a <page> oldalon <processId> azonosítóval
+* Kattints a <page> gombra
+* Várj, amíg a "Nincs megjelenítendő adat" szöveg nem lesz jelen
+* Írd a <processId> szöveget a "#ProcessListByUser_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Kattints a "ProcessListByUser_DXMainTable" táblázat "2". sor "1". oszlopára

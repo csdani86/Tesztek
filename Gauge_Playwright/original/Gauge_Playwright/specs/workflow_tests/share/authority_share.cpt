@@ -1,0 +1,9 @@
+# Hatóság megosztások
+* Kattints az "Hatóság megosztások" gombra
+* Kattints a "Megosztás hatóság számára" gombra
+* Kattints a "Minden hatóság" gombra
+* Írd ezt a szöveget "ENV:polgarmester_szakhat" a "#gvAddOffices_DXFREditorcol1_I" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Kattints az "gvAddOffices_DXMainTable" táblázat "2". sor "1". oszlopára
+* Kattints az "Mentés" elemre
+* Várj, amíg a "ENV:polgarmester_szakhat" szöveg látszik

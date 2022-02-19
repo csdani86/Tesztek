@@ -1,0 +1,6 @@
+# Kérelmezői oldal: eljárás megnyitása a értesítések oldalon <processId> azonosítóval
+* Kattints az "Értesítések" gombra
+* Várj, amíg a "megadhat több szót is..." szöveg látszik
+* Írd a <processId> szöveget a "#MessageList_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Kattints a "MessageList_DXMainTable" táblázat "2". sor "1". oszlopára

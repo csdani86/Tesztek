@@ -1,0 +1,4 @@
+# Iktatás
+* Kattints a "Kézi iktatás" gombra
+* Írd a "RAND:alphabetic:6" szöveget a "css=label:text-is('Iktatószám')" címkével rendelkező elembe
+* Kattints a "Mentés" gombra

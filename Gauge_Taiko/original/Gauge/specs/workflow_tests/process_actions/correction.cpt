@@ -1,0 +1,14 @@
+# Hiánypótlás cselekmény
+* Várj, amíg a "Hiánypótlás" szöveg látszik
+* Kattints a "Hiánypótlás\\s+$" gombra
+* Kattints az "Mellékletek" elemre
+* Ellenőrizd le, hogy a "Új dokumentum feltöltése" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Dokumentum csatolása / eltávolítása" szöveg megtalálható az oldalon
+* Kattints az "Új dokumentum feltöltése" elemre
+* Fájl feltöltése
+* Kattints a "Tovább" gombra
+* Várj, amíg a "ENV:altalanos_hatosag" szöveg látszik
+* Görgess a "Küldés" elemig
+* Fogadd el a böngésző figyelmeztetést
+* Kattints a "Küldés" gombra
+* Várj, amíg a "Hiánypótlását a rendszer eljuttatta a címzettnek" szöveg látszik

@@ -1,0 +1,8 @@
+# Beküldött <eljaras> azonosítójú megnyitása <nezet> nézetben
+* Kattints a "Eljárások" elemre
+* Válaszd ki a "Nézet" legördülő listából a <nezet> címkéjű elemet
+* Bemutató bezárása
+* Írd a <eljaras> szöveget a "#ProcessListByOffice_SearchPanel_CustomEditorName" címkével rendelkező elembe
+* Nyomj egy Enter-t
+* Várj, amíg a "#ProcessListByOffice_DXMainTable" elem látszik
+* Kattints a "ProcessListByOffice_DXMainTable" táblázat "2". sor "1". oszlopára

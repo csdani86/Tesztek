@@ -1,0 +1,9 @@
+# Dokumentumok bemutató gombok működése
+* Kattints a "#document-tab-intro" elemre
+* Várj "2" másodpercet
+* Kattints a "Következő" elemre
+* Várj, amíg a "Előző" szöveg látszik
+* Kattints a "Előző" elemre
+* Nyomd meg a "ArrowRight" billentyűt a billentyűzeten
+* Nyomd meg a "ArrowLeft" billentyűt a billentyűzeten
+* Bemutató bezárása

@@ -1,0 +1,24 @@
+# Megosztott ügyek ellenőrzés adott <eljazon> eljárás azonosítóval
+* Kattints az "Megosztott ügyek" gombra
+* Várj, amíg a <eljazon> szöveg jelen lesz
+* Kattints az <eljazon> elemre
+* Várj, amíg a <eljazon> szöveg jelen lesz
+* Ellenőrizd le, hogy a "Hiba történt!" szöveg nem található meg az oldalon
+* Kattints a "Eljárás általános adatai" gombra
+* Ellenőrizd le, hogy a "Hiba történt!" szöveg nem található meg az oldalon
+* Kattints a "Tárgyi ingatlanok" gombra
+* Ellenőrizd le, hogy a "Hiba történt!" szöveg nem található meg az oldalon
+* Kattints a "Érintett ingatlanok" gombra
+* Ellenőrizd le, hogy a "Hiba történt!" szöveg nem található meg az oldalon
+* Kattints a "Érintettek" gombra
+* Bemutató bezárása
+* Ellenőrizd le, hogy a "Hiba történt!" szöveg nem található meg az oldalon
+* Kattints a "Dokumentumok" gombra
+* Kattints az ".close-feedback-icon" elemre, ha tudsz
+* Bemutató bezárása
+* Ellenőrizd le, hogy a "Hiba történt!" szöveg nem található meg az oldalon
+* Kattints a "Kapcsolódó eljárások" gombra
+* Ellenőrizd le, hogy a "Hiba történt!" szöveg nem található meg az oldalon
+* Kattints a "Pénzügyek" gombra
+* Ellenőrizd le, hogy a "Hiba történt!" szöveg nem található meg az oldalon
+* Kattints az "Visszatérés a kérelmezői felületre" gombra

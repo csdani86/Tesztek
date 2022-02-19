@@ -1,0 +1,21 @@
+# Tárgyi ingatlan szerkesztése
+* Várj, hogy a "Tárgyi ingatlanok" szöveg megjelenjen
+* Kattints az "Tárgyi ingatlanok" gombra
+* Várj, amíg a "Új tárgyi ingatlan rögzítése" szöveg látszik
+* Kattints a ".edit-subject-estate" elemre, ha tudsz
+* Kattints a "//*[@id=\"gvSubjectEstates_tccell0_5\"]/a[2]" elemre, ha tudsz
+* Válaszd ki a "Fekvés" legördülő listából a "Külterület" címkéjű elemet
+* Töröld a "Estate_TopographicalNumber" ID-val rendelekező elem szövegét
+* Írd a "523423623623" szöveget az "Helyrajzi szám" címkével rendelkező elembe
+* Töröld a "Estate_Address_Iranyitoszam" ID-val rendelekező elem szövegét
+* Írd a "9463" szöveget az "Irányítószám" címkével rendelkező elembe
+* Töröld a "Közterület neve" elem szövegét
+* Írd a "Ács" szöveget az "Közterület neve" címkével rendelkező elembe
+* Töröld a "Közterület jellege" elem szövegét
+* Írd a "utca" szöveget az "Közterület jellege" címkével rendelkező elembe
+* Töröld a "Házszám" elem szövegét
+* Írd a "12" szöveget az "Házszám" címkével rendelkező elembe
+* Töröld a "Egyéb cím" elem szövegét
+* Írd a "Via Coni Zugna, 211, 00054 Fiumicino RM" szöveget az "Egyéb cím" címkével rendelkező elembe
+* Fogadd el a "A beállítani kívánt település eltér az építési tevékenységgel érintett telek településétől. Biztosan folytatja?" szöveggel rendelkező böngésző figyelmeztetést
+* Kattints az "Mentés" gombra

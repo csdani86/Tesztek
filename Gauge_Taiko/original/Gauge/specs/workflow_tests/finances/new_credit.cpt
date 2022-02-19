@@ -1,0 +1,11 @@
+# Új pénzügyi jóváírás készítése
+* Kattints a "Új jóváírás készítése" gombra
+* Válaszd ki a "Jóváírás jogcíme" legördülő listából a "Bírság" címkéjű elemet
+* Töröld a "Jóváírás összege" elem szövegét
+* Írd a "5000000" szöveget a "Jóváírás összege" címkével rendelkező elembe
+* Írd a "Jóváírás megjegyzése" szöveget az "Hivatkozás, megjegyzés" címkével rendelkező elembe
+* Válaszd ki a "Érintett partner" legördülő listából a "Tervez Örs" címkéjű elemet
+* Kattints az "Mentés" gombra
+* Ellenőrizd le, hogy a "Jóváírás megjegyzése" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "5 000 000 Ft" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy pontosan a "0 Ft" szöveg megtalálható az oldalon

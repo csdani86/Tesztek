@@ -1,0 +1,13 @@
+# Tárgyi ingatlan hozzáadása
+* Kattints az "Tárgyi ingatlanok" gombra
+* Kattints az "Új tárgyi ingatlan rögzítése" gombra
+* Válaszd ki a "Fekvés" legördülő listából a "Zártkert" címkéjű elemet
+* Írd a "523423623623" szöveget az "Helyrajzi szám" címkével rendelkező elembe
+* Írd a "1111" szöveget az "Irányítószám" címkével rendelkező elembe
+* Írd a "Ács" szöveget az "Közterület neve" címkével rendelkező elembe
+* Írd a "utca" szöveget az "Közterület jellege" címkével rendelkező elembe
+* Írd a "43" szöveget az "Házszám" címkével rendelkező elembe
+* Írd a "Teszt utca 1" szöveget az "Egyéb cím" címkével rendelkező elembe
+ Fogadd el a böngésző figyelmeztetést
+* Kattints az "Mentés" gombra
+* Várj, amíg a "Ács utca 43" szöveg látszik

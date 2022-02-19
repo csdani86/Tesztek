@@ -1,0 +1,26 @@
+# Tájékoztatás-Hiánytalan bejelentésről
+* Várj, amíg az "Eljárás szerkesztése" szöveg látszik
+* Kattints a "Tájékoztatás\\s+$" gombra
+* Kattints a "Tájékoztatás hiánytalan bejelentésről\\s+$" elemre
+* Iktatás
+* Irat sablon beállítás fájlból
+* Kattints a "Címzettek \\(0\\)" elemre
+* Kattints a "Kijelölés módosítása" gombra
+* Kattints a "#cbSelectAllAddressee_S_D" elemre
+* Várj "3" másodpercet
+* Kattints az "Mentés" gombra
+* Várj, hogy a "Tájékoztatás hiánytalan bejelentésről" szöveg megjelenjen
+* Kattints az "Tovább" gombra
+* Kattints az "Kiadmányozásra" gombra
+* Fogadd el a "Biztosan végre szeretné hajtani a kiadmányozást?" szöveggel rendelkező böngésző figyelmeztetést
+* Várj, hogy a "Bezár" szöveg megjelenjen
+* Kattints a "Bezár" gombra
+* Várj, hogy a "Tájékoztatás hiánytalan bejelentésről" szöveg megjelenjen
+* Fogadd el a böngésző figyelmeztetést
+* Kattints a "Kiadmányozás" gombra
+* Várj, hogy a "Tájékoztatás hiánytalan bejelentésről" szöveg megjelenjen
+* Várj, amíg a "Nincs megjelenítendő adat" szöveg már nem látszik
+* Expediálás
+* Kattints a "Eljárás" gombra
+* Kattints a "Cselekmények" gombra
+* Várj, amíg a "Tájékoztatás hiánytalan bejelentésről" szöveg jelen lesz

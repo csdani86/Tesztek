@@ -1,0 +1,7 @@
+# Poszeidonos belépés adott url-en <url>
+* Navigálj az <url> URL-re
+* Írd a "ETDRTESZT" szöveget az "#UserName" elembe
+* Írd a "a" szöveget az "#Password" elembe
+* Kattints a "Bejelentkezés >> nth=1" elemre
+* Várj, amíg az "'Adatvédelmi tájékoztató'" szöveg látszik
+* Kattints a "'Ok'" gombra

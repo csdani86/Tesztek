@@ -1,0 +1,29 @@
+# Partner megosztások
+* Kattints az "Partner megosztások" gombra
+* Kattints a "Megosztás partner számára" gombra
+* Írd a "Karamell" szöveget a "Vezetéknév" címkével rendelkező elembe
+* Írd a "Károly" szöveget a "Keresztnév" címkével rendelkező elembe
+* Kattints a "Másolás" gombra
+* Írd a "Magyarország" szöveget a "Születési ország" címkével rendelkező elembe
+* Írd a "Szekszárd" szöveget a "Születési település" címkével rendelkező elembe
+* Írd a "1987.05.04." szöveget a "Születési dátum" címkével rendelkező elembe
+* Írd a "5555" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Perem" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "út" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "69." szöveget a "Házszám" címkével rendelkező elembe
+* Kattints a "#copy" gombra
+* Kattints a "Mentés" gombra
+* Várj, amíg a "Karamell" szöveg látszik
+* Kattints a "Megosztás partner számára" gombra
+* Kattints a "#IsCorporation" checkboxra
+* Írd a "Dr Jogorvosló János" szöveget a "Jogi személy megnevezése" címkével rendelkező elembe
+* Írd a "57543543-89887" szöveget a "Jogi személy adószáma" címkével rendelkező elembe
+* Írd a "Kovács István" szöveget a "Jogi személy képviselője" címkével rendelkező elembe
+* Ellenőrizd le, hogy a "Magyarország" szöveg megtalálható az oldalon
+* Írd a "3333" szöveget a "Irányítószám" címkével rendelkező elembe
+* Írd a "Hold" szöveget a "Közterület neve" címkével rendelkező elembe
+* Írd a "téli kikötő" szöveget a "Közterület jellege" címkével rendelkező elembe
+* Írd a "69." szöveget a "Házszám" címkével rendelkező elembe
+* Kattints az "Elérhetőség" alatti "Másolás" gombra
+* Kattints a "Mentés" gombra
+* Várj, amíg a "Dr Jogorvosló János" szöveg látszik

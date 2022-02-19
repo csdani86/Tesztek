@@ -1,0 +1,16 @@
+# Ellenőrzött bejelentés (építés) piszkozat létrehozása
+* Eljárás alap adatainak beírása adott "9463" irányítószámmal és "Piszkozat neve" névvel
+* Válaszd ki a "MainProcessTypeId" ID-val rendelkező legördülő listából a "Ellenőrzött bejelentés (építés)" címkéjű elemet
+* Írd a "Mauris sem erat, vestibulum quis convallis ac, consectetur et risus. Nunc luctus nisl enim, vitae pharetra elit finibus a. Fusce mattis eget metus non posuere. Nulla euismod ultrices euismod. Ut ultrices metus vel turpis sollicitudin fermentum. Nulla tor." szöveget a "Kérelem rövid leírása" címkével rendelkező elembe
+* Kattints az "Folytatás" gombra
+* Kattints a "Nem" elemre
+* Válaszd ki az "Én vagyok a tervező építész" jelölőnégyzetet(checkbox)
+* Kattints az "Másolás" gombra
+* Kattints az "Mentés" gombra
+* Kattints a "Általános adatok" elemre
+* Jegyezd meg a "#process-number" értékét a "TJ_eljaras_azonosito" azonosítóval
+* Kattints az "Szerkesztés" gombra
+* Várj, amíg a "Megnevezés" szöveg látszik
+* Töröld a "ProcessName" ID-val rendelekező elem szövegét
+* Írd a "ENV:TJ_eljaras_neve" szöveget a "#ProcessName" címkével rendelkező elembe
+* Kattints az "Mentés" gombra

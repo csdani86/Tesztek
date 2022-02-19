@@ -1,0 +1,75 @@
+# Dokumentumok bemutató szöveg ellenörző
+* Kattints a "#document-tab-intro" elemre
+
+1/18
+* Ellenőrizd le, hogy a "Információ gomb" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Köszöntjük a megújult oldalon! A következőkben végig kalauzoljuk az újdonságokon. Ha nem szeretné most megnézni, kattintson a jobb felső sarokban található \"X\" gombra, a későbbiekben is bármikor megnézheti a bemutatót, erre a zöld i ikonra kattintva" szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+2/18
+* Ellenőrizd le, hogy a "Címkék" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A címkéket \"drag-and-drop\" módszerrel lehet egy sorra elhelyezni: a kiválasztott címkét az egérrel meg kell ragadni, és a gombot lenyomva tartva kell a sorra húzni azt. Lehetőség van tömeges szerkesztésre, azaz ha előzőleg több sort kijelöl, a kiválasztott címkét mindegyik sorra elhelyezi a rendszer." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+3/18
+* Ellenőrizd le, hogy a "Nyilvános címke" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A kiválasztott sorokra húzza rá a \"Nyilvános\" címkét, és ezek a dokumentumok meg fognak jelenni az ÉTDR általános tájékoztató felületén a 312/2012. (XI. 8.) 10. § (6) bek. ad) pontjának megfelelően." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+4/18
+* Ellenőrizd le, hogy a "Több címke" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A leggyakrabban használt címkéket alapértelmezetten elérhetővé tettük a felületen. Ha több címke közül szeretne választani, nyomjon a \"Még több címke\" gombra!" szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+5/18
+* Ellenőrizd le, hogy a "Címkék szűrése" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Kattintson az egyik címkére! A táblázatban csak azok sorok jelennek meg, melyeken megtalálható a kiválasztott címke. Több címkét is kijelölhet: ebben az esetben minden olyan sor látszódik amelyeken legalább az egyik rajta van." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+6/18
+* Ellenőrizd le, hogy a "Tömeges letöltés" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A tömeges letöltés az ÉTDR régi, technikai felépítése miatt nem megvalósítható. A böngészőkhöz ún. add-on-t készítettünk, melyek telepítésével és beállításával megvalósítható a fájlok tömeges letöltése. Ehhez segítséget itt talál." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+7/18
+* Ellenőrizd le, hogy a "Oszlopok sorrendje" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Az oszlopokat tetszőleges sorrendbe rendezheti, mely beállítást a böngészője eltárolja. Fogja meg az oszlop fejlécét, és húzza a kívánt helyre!" szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+8/18
+* Ellenőrizd le, hogy a "Szűrések" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A \"Feltöltés ideje\" oszlopban mostantól a dátum pontos kiválasztását dátumválasztó segíti. Használja a tölcsér ikont, ha korábbi vagy későbbi dátumokra keres! A többi oszlopban a megszokott módon kereshet." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+9/18
+* Ellenőrizd le, hogy a "Sor színezése" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A sorok elején található négyzetbe kattintva a sort megjelölheti valamilyen színnel a könnyebb csoportosítás kedvéért. Ezt a későbbiekben is tetszés szerint módosíthatja. A színek a hatóságon belül mindenkinek megjelennek, ha ezt az eljárást megnyitják." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+10/18
+* Ellenőrizd le, hogy a "Sorok színezése" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Jelölje ki a kívánt sorokat, majd a táblázat bal felső sarkában lévő gombra kattintva válassza ki a megfelelő színt! A kijelölt sorok mind a kiválasztott színt fogják megkapni." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+11/18
+* Ellenőrizd le, hogy a "Sorok lenyitása" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A nyíl ikonnal le tudja nyitni a sort. A megjelenő részen az látszódik, hogy az adott sor mely másik dokumentumhoz lett csatolva. (Pl. a kiválasztott tervlap a kérelem vagy a hiánypótlás részeként lett-e beadva.)" szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+12/18
+* Ellenőrizd le, hogy a "Cella szerkesztése" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A táblázat \"Sorszám\" és \"Típus / Megjegyzés\" celláinak tartalma kattintást követően szerkeszthetőek - a rendszer nem navigál többé új oldalra emiatt. A \"Tab\" billentyű megnyomásával a következő szerkeszthető cellába tud ugrani. A változásokat szükséges elmenteni a táblázat jobb felső sarkában elhelyezett \"Mentés\" gombbal." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+13/18
+* Ellenőrizd le, hogy a "Letöltés" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A táblázat \"Fájlnév\" oszlopának cellájában történő kattintásra elindul a fájl letöltése az aktuális böngésző beállításának függvényében." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+14/18
+* Ellenőrizd le, hogy a "Sor műveletek" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Ha az egérmutatót az egyik sor \"Dátum\" oszlopa fölé viszi, megjelennek a szerkesztésre szolgáló ikonok, melyekkel a sor adatait szerkesztheti, illetve a letöltést elindíthatja." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+15/18
+* Ellenőrizd le, hogy a "Elrejtés" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Új címkét vezettünk be, mellyel a dokumentumok elrejthetőek. A \"rejtett\" címkét az adott sorra ráhúzva, bármikor elrejtheti az adott dokumentumot, legyen az irat, terv, vagy más dokumentum. Az elrejtett dokumentum nem törlődik, viszont az új nézetben nem fog megjelenni a listában. A címkét törölve a dokumentumokat bármikor vissza tudja állítani." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+16/18
+* Ellenőrizd le, hogy a "Nézet választó" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Ezzel a kapcsolóval rejtheti el vagy hozhatja elő a \"rejtett\" címkét tartalmazó dokumentumokat. A kapcsoló másik eljárásban is és kilépés után is abban az állapotban marad, ahogy legutoljára hagyta." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+17/18
+* Ellenőrizd le, hogy a "Frissítés" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "A „rejtett” címke elhelyezésekor a sor nem tűnik el azonnal, a következő újratöltésig látható lesz. A táblázat újratöltéshez használhatja ezt a gombot." szöveg megtalálható az oldalon
+* Kattints a "Következő" elemre
+18/18
+* Ellenőrizd le, hogy a "Vége" szöveg megtalálható az oldalon
+* Ellenőrizd le, hogy a "Köszönjük, hogy megnézte a bemutatót! Reméljük, hogy az új funkciók segítik a munkáját!" szöveg megtalálható az oldalon
+* Kattints a ".introjs-donebutton" elemre
